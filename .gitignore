@@ -1,0 +1,26 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Qt project files
+*.qrc
+*.ui
+
+# Virtual Environment
+venv/
+.env/
+pj_final_env/
+
+# System files
+.DS_Store
+*.swp
+*.swo
+
+# IDE Configurations
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+
